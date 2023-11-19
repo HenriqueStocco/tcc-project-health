@@ -1,3 +1,16 @@
+# Projeto TCC
+
+
+| *Diagrama Software*|
+|------------------|
+|<img src="./images/software_diagram.png" width="400px" height="260px">
+
+
+| *Modelo de Relação de Entidades*|
+|------------------|
+|<img src="./images/entity_relation_model.png" width="400px" height="260px">
+
+
 ## Objetivo
 
 O objetivo principal do projeto é tornar mais fácil o processo de observação das vacinas para todas as idades, tornando mais fácil o processo de se vacinar, melhorando a saúde do povo como um todo.
